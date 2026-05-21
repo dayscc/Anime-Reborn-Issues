@@ -15,11 +15,23 @@ What is the problem?
 2.
 3.
 
+## Device
+Phone/tablet model.
+
+## OS Version
+iOS / Android version.
+
+## Orientation
+Portrait / Landscape
+
 ## Expected Result
 What should happen?
 
 ## Actual Result
-what happens instead.
+What happens instead?
+
+## Media
+Screenshot or recording if available.
 
 ## Additional Info
-Any extra context or media
+Any extra context.

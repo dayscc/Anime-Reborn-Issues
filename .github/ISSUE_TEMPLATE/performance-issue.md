@@ -10,14 +10,28 @@ assignees: ''
 ## Device
 PC / Mobile / Console
 
+## Specs or Model
+PC specs, phone model, or console type if known.
+
 ## Description
 Describe the performance problem.
 
 ## When it happens
-Loading / specific area / random / ui / attacks
+Loading / specific area / random / UI / attacks
 
 ## Symptoms
-FPS drop / lag spikes / crashes
+FPS drop / lag spikes / stutters / freezes / crashes
+
+## Frequency
+Always / Often / Sometimes / Once
+
+## Steps to Reproduce
+1.
+2.
+3.
+
+## Media
+Clips or screenshots if available.
 
 ## Additional Info
-Any logs, clips or notes
+Any logs or extra notes.

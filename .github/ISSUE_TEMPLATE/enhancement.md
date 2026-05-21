@@ -13,6 +13,9 @@ Describe the improvement clearly.
 ## Current Behavior
 How does the current system work?
 
+## Problem
+What feels unclear, weak, or missing right now?
+
 ## Suggested Improvement
 What should be changed or improved?
 

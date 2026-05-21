@@ -10,16 +10,26 @@ assignees: ''
 ## Description
 Describe the issue clearly.
 
+## Quick Check
+- [ ] I searched existing issues.
+- [ ] I can reproduce this issue.
+
 ## Steps to Reproduce
 1.
 2.
 3.
 
+## Where It Happens
+Game mode, map, lobby screen, menu, unit, or feature.
+
 ## Expected Result
-what should happen?
+What should happen?
 
 ## Actual Result
-what actually happens.
+What actually happens?
+
+## Platform
+PC / Mobile / Console
 
 ## Media
 Screenshots or videos (if available).
